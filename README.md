@@ -1,4 +1,4 @@
-# SauceDemo Test
+#Test
 
 # This Framework has been created in BDD
 
